@@ -44,6 +44,23 @@ Facilitação de reuniões e orientação de novos membros da equipe.
 # GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jairoalm&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+# Card - Most Used Languages
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jairoalm&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+# Card - Most Used Languages Compact
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jairoalm&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+# Projetos de Destaque
+## E-commerce
+- Implemtação de uma solução automaztizada de testes de API utilizando robot framework e Github Action.
+## Controle de academia Mobile
+- Implemtação de uma solução automaztizada de testes Mobile utilizando robot framework e appium.
+## Controle de academia WEB
+- Implemtação de uma solução automaztizada de testes Mobile utilizando robot framework e library do playwright.
+## E-commerce com Cypress
+- Implemtação de uma solução automaztizada de testes Mobile utilizando cypress.
+## E-commerce com Ruby
+Implementação de automação de teste com Ruby, Excon, Cucumber e Gherkin para testes de API.
 
 # Conecte-se comigo
 
